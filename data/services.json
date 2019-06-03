@@ -1,0 +1,15 @@
+{
+	"title" : "Degrees",
+	"services" : [
+		{
+			"icon" : "code.png",
+			"title" : "Computer Engineering",
+			"description" : "I began university as a mechanical engineer. The application of math to something I can intimately experience in the world forced my curiosity.  Also I just loved Mythbusters. Along the mechanical path I was introduced to software. I had never written code before, but as a nerdy teenager building computers was a past time.  I wish I could say I immediately resonated with it. But this was absolutely not the case. In fact I failed at it. I couldn’t understand what the hell was going on and that just forced me to spend even more time with it.  Eventually I found the groovy and now I’m stuck with it. Finding myself overjoyed when I write something pretty; all the while locked into what the hardware is doing and that magic moment when ones and zeros become signals and potential. "
+		},
+		{
+			"icon" : "philosophy.png",
+			"title" : "Philosophy",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+	]
+}

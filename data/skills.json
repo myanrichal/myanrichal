@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Strength" : "68",
+		"Dexterity" : "91",
+		"Constitution" : "71",
+		"Intelligence" : "82",
+		"Wisdom" : "97",
+		"Charisma" : "87"
+	}
+}
