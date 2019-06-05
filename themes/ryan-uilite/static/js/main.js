@@ -60,19 +60,16 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $(window).resize(function(){
-    if($(window).width() < 1100 && $(window).width() > 767 || $(window).width() < 480 ) {
-      $("#resume-link").text("Resume")
+
+    if($(window).width() < 1100 && $(window).width() > 965 || $(window).width() < 480 ) {
+      $("#resume-link-text").text("My Resume Here! Click Now")
     } else {
-      $("#resume-link").text("This web portfolio is rather silly. Find my formal resume here.")
+      $("#resume-link-text").text("This web portfolio is rather silly. Find my formal resume here.")
     }
   });
 });
 
-// // dnw
-// $( document ).load(function() {
-//   if($(window).width() < 1100) {
-//     $("#resume-link").text("Resume")
-//   } else {
-//     $("#resume-link").text("This web portfolio is rather silly. Find my formal resume here.")
-//   }
-// });
+$("#resume-link").click(function(){
+  window.open('/static/doc/resume.pdf'); 
+});
+

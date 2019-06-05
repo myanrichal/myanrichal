@@ -99,6 +99,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 38px;
 }
 
+.h5 {
+  font-size: 12px;
+}
+
 .highlight {
   background-color: #ededed;
   padding: 4px 8px;
@@ -220,6 +224,8 @@ section.voilet {
 
 section.blue {
   background-color: #cadfdf;
+  margin: 15px;
+  border-radius: 50px;
 }
 
 section.orange {
@@ -229,6 +235,8 @@ section.orange {
 
 section.green {
   background-color: #aaffa7;
+  margin: 15px;
+  border-radius: 50px;
 }
 
 section.skin {
@@ -236,8 +244,10 @@ section.skin {
 }
 
 section.aqua {
-  background-color: #00fefe;
+  background-color: #90d8d8;
   color: #000 !important;
+  margin: 15px;
+  border-radius: 50px;
 }
 
 section.pink {
@@ -245,17 +255,18 @@ section.pink {
 }
 
 .progress {
-  height: 0.6rem;
+  height: 1.0rem;
   background-color: #fff;
 }
 
 .progress .bg-blue {
-  background-color: #2e96a5;
+  background-color: #ff9696;
 }
 
 .card {
   border-radius: 6px;
   border: none;
+  min-height: 600px
 }
 
 #timeline {
@@ -263,6 +274,11 @@ section.pink {
   position: relative;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
+}
+
+#contact {
+  margin: 15px;
+  border-radius: 50px;
 }
 
 #timeline:before {
@@ -339,7 +355,7 @@ section.pink {
   margin-bottom: 20px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 965px) {
   .sidebar {
     position: static;
     width: 100%;
@@ -454,12 +470,17 @@ section.pink {
   color: brown;
   padding: 25px;
   border-radius: 25px;
-  padding-bottom: 12px;
   position: absolute;
   margin: 4%;
   top: 15px;
   right: 40px;
   left: 40px;
+  cursor: pointer;
+  box-shadow: 8px 8px 20px grey;
+}
+
+.main-info {
+  margin-top: 0%;
 }
 
 @media (max-width: 1100px) {
@@ -469,10 +490,15 @@ section.pink {
     right: 0px;
     font-size: 10dp;
     left: 60%;
+    padding: 15px;
   }
 }
 
-@media (max-width: 767px) {
+.main-info {
+  margin-top: 15%;
+}
+
+@media (max-width: 965px) {
 
   .alert-info {
     margin: 2%;
