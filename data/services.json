@@ -4,12 +4,12 @@
 		{
 			"icon" : "code.png",
 			"title" : "Computer Engineering",
-			"description" : "I began university as a mechanical engineer. The application of math to something I can intimately experience in the world forced my curiosity.  Also I just loved Mythbusters. Along the mechanical path I was introduced to software. I had never written code before, but as a nerdy teenager building computers was a past time.  I wish I could say I immediately resonated with it. But this was absolutely not the case. In fact I failed at it. I couldn’t understand what the hell was going on and that just forced me to spend even more time with it.  Eventually I found the groovy and now I’m stuck with it. Finding myself overjoyed when I write something pretty; all the while locked into what the hardware is doing and that magic moment when ones and zeros become signals and potential. "
+			"description" : "01000100 01100101 01110110 01100101 01101100 01101111 01110000 01101001 01101110 01100111 00100000 01101001 01110011 00100000 01101101 01111001 00100000 01100001 01110010 01110100 00101110"
 		},
 		{
 			"icon" : "philosophy.png",
 			"title" : "Philosophy",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Great ideas enter into reality with evil associates and with disgusting alliances. (Alfred North Whitehead, Adventures of Ideas.) A degree in engineering is not enough to truly be a creator. There is still more.  Philosophy was my pursuit for more; challenging my most foundational faiths, analyzing the little bits of nothing that form everything. Exploring what makes me different from the computers I create."
 		}
 	]
 }

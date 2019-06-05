@@ -1,4 +1,4 @@
-{{ $skills := .Site.Data.skills }}
+<!-- {{ $skills := .Site.Data.skills }}
 
 <section id="skills" class="aqua text-light">
   <h2 class="heading">{{ $skills.title }}</h2>
@@ -6,10 +6,83 @@
   {{ range $key, $value := $skills.skills }}
 
   <div class="skill">
-    <span class="h6">{{ $key }}</span>
+    <span class="heading h5">{{ $key }}</span>
     <div class="progress">
       <div class="progress-bar bg-blue" role="progressbar" style="width: {{ $value }}%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
   </div>
   {{ end }}
 </section>
+ -->
+
+
+
+
+{{ $skills := .Site.Data.skills }}
+
+<section id="skills" class="aqua text-light">
+  <h2 class="heading">{{ $skills.title }}</h2>
+
+
+  <div class="skill">
+    <span class="heading h5"> Strength </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 38%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>My spirit animal is a bear.</p>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span class="heading h5"> Dexterity </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 91%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>I exclusively climb dynos.</p>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span class="heading h5"> Constitution </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 55%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>50 work hours a week, managing a school club, full time student, no problem.</p>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span class="heading h5"> Intelligence </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>I DM daily games of cubicals and co-workers. </p>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span class="heading h5"> Wisdom </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 97%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>Survived Nietzche.</p>
+    </div>
+  </div>
+
+    <div class="skill">
+    <span class="heading h5"> Charisma </span>
+    <div class="progress">
+      <div class="progress-bar bg-blue" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <div class="skill-reason">
+      <p>Every engineer has a natural talent for talking.</p>
+    </div>
+  </div>
+
+</section>
+

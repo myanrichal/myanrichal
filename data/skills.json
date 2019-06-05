@@ -1,5 +1,5 @@
 {
-	"title" : "Skills",
+	"title" : "Attributes",
 	"skills" : {
 		"Strength" : "68",
 		"Dexterity" : "91",
@@ -9,3 +9,4 @@
 		"Charisma" : "87"
 	}
 }
+
