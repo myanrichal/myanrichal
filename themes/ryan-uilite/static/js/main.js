@@ -68,8 +68,3 @@ $(document).ready(function(){
     }
   });
 });
-
-$("#resume-link").click(function(){
-  window.open('/static/doc/resume.pdf'); 
-});
-
