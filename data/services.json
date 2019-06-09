@@ -1,15 +1,15 @@
 {
-	"title" : "Degrees",
-	"services" : [
-		{
-			"icon" : "code.png",
-			"title" : "Computer Engineering",
-			"description" : "01000100 01100101 01110110 01100101 01101100 01101111 01110000 01101001 01101110 01100111 00100000 01101001 01110011 00100000 01101101 01111001 00100000 01100001 01110010 01110100 00101110"
-		},
-		{
-			"icon" : "philosophy.png",
-			"title" : "Philosophy",
-			"description" : "Great ideas enter into reality with evil associates and with disgusting alliances. (Alfred North Whitehead, Adventures of Ideas.) A degree in engineering is not enough to truly be a creator. There is still more.  Philosophy was my pursuit for more; challenging my most foundational faiths, analyzing the little bits of nothing that form everything. Exploring what makes me different from the computers I create."
-		}
-	]
+  "title": "Degrees",
+  "services": [
+    {
+      "icon": "code.png",
+      "title": "Computer Engineering",
+      "description": "01000100 01100101 01110110 01100101 01101100 01101111 01110000 01101001 01101110 01100111 00100000 01101001 01110011 00100000 01101101 01111001 00100000 01100001 01110010 01110100 00101110"
+    },
+    {
+      "icon": "philosophy.png",
+      "title": "Philosophy",
+      "description": "Great ideas enter into reality with evil associates and with disgusting alliances. (Alfred North Whitehead, Adventures of Ideas.) A degree in engineering is not enough to truly be a creator.  Philosophy was my pursuit for more; challenging my most foundational faiths, analyzing the little bits of nothing that form everything. Exploring what makes me different from the computers I create."
+    }
+  ]
 }
