@@ -1,4 +1,4 @@
-baseurl = "myanrichal.com/"
+baseurl = "https://myanrichal.com/"
 languageCode = "en-us"
 title = "myanrichal"
 theme = "ryan-uilite"
