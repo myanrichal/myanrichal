@@ -1,12 +1,11 @@
 {
-	"title" : "Attributes",
-	"skills" : {
-		"Strength" : "68",
-		"Dexterity" : "91",
-		"Constitution" : "71",
-		"Intelligence" : "81",
-		"Wisdom" : "97",
-		"Charisma" : "89"
-	}
+  "title": "Attributes",
+  "skills": {
+    "Strength": 68,
+    "Dexterity": 91,
+    "Constitution": 71,
+    "Intelligence": 81,
+    "Wisdom": 97,
+    "Charisma": 88
+  }
 }
-
