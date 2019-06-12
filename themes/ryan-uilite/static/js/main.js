@@ -64,7 +64,7 @@ $(document).ready(function(){
     if($(window).width() < 1100 && $(window).width() > 965 || $(window).width() < 480 ) {
       $("#resume-link-text").text("My Resume Here! Click Now")
     } else {
-      $("#resume-link-text").text("This web portfolio is rather silly. Find my formal resume here.")
+      $("#resume-link-text").text("Find my formal resume here.")
     }
   });
 });

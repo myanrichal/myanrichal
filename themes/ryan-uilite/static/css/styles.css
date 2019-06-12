@@ -473,6 +473,7 @@ section.pink {
   position: absolute;
   margin: 4%;
   top: 15px;
+  text-align: center;
   right: 40px;
   left: 40px;
   cursor: pointer;
@@ -504,7 +505,7 @@ section.pink {
     margin: 2%;
     margin-left: 5%;
     right: 0px;
-    left: 40%;
+    left: 67%;
   }
 }
 
