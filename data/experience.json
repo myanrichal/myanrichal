@@ -1,25 +1,25 @@
 {
-	"title" : "Experience",
-	"experience" : [
-		{
-			"timeperiod" : "August 2019",
-			"company" : "Grand Valley State University",
-			"description" : "Cap-Level until I can afford the next dlc; double classed into Philosopher and Computer Engineer to squeeze all the best bits out of life. I start with ideas and see them through."
-		},
-		{
-			"timeperiod" : "May 2017 - Present",
-			"company" : "CQL Inc.",
-			"description" : "Witnessed people working much harder than me; adjusted my pace to ensure I pass them up.  Developed severe coffee addiction and lots of webapps too."
-		},
-		{
-			"timeperiod" : "Summer 2015 & 2016",
-			"company" : "Motor City Electric",
-			"description" : "Worked in service to the city, Detroit, to get the cities street lights shining bright. With circuitry and geodatabases we made the streets safer in the way an engineer knows how."
-		},
-		{
-			"timeperiod" : "September 2014",
-			"company" : "Grand Valley State University",
-			"description" : "Naive freshmen begins to understand he knows nothing and is nothing. I sink until I learn how to swim and it certainly took a couple months before I was treading water."
-		}
-	]
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "August 2019",
+      "company": "Grand Valley State University",
+      "description": "Cap-Level until I can afford the next dlc; double classed into Philosopher and Computer Engineer to squeeze all the best bits out of life. I start with ideas and see them through."
+    },
+    {
+      "timeperiod": "May 2017 - Present",
+      "company": "CQL Inc.",
+      "description": "Witnessed people working much harder than me; adjusted my pace to keep up.  Developed severe coffee addiction and lots of webapps too."
+    },
+    {
+      "timeperiod": "Summer 2015 & 2016",
+      "company": "Motor City Electric",
+      "description": "Worked in service to the city, Detroit, to get the cities street lights shining bright. With circuitry and geodatabases we made the streets safer in the way an engineer knows how."
+    },
+    {
+      "timeperiod": "September 2014",
+      "company": "Grand Valley State University",
+      "description": "Naive freshmen begins to understand he knows nothing and is nothing. I sink until I learn how to swim and it certainly took a couple months before I was treading water."
+    }
+  ]
 }
